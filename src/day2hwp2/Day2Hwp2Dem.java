@@ -15,6 +15,7 @@ System.out.println ("sleeping");
 public void run () {
 	
 	System.out.println ("running fast......");
+	System.out.println ("running faster......");
 }
 	
 	
